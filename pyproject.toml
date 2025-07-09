@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "MCP server and CLI tools for web search and crawling, built on SearXNG and Crawl4AI"
 requires-python = ">=3.10"
 # clarify the control flow
+# keep defaults in sync with the manifest
